@@ -91,12 +91,26 @@ Here are basic summaries of both!
 * Keeps your game folder clean using a staging folder and **symlinks**.
 * Integrates directly with [Nexus Mods](https://www.nexusmods.com/oblivion) for mod downloads.
 
-1. Download this mod manager from [here](https://www.nexusmods.com/site/mods/1?tab=files).
-2. Run the installer and if you have any issues, please refer to the Vortex troubleshooting guide [here](https://github.com/Nexus-Mods/Vortex/wiki/Vortex-Troubleshooting)!
-3. On first launch, Vortex should automatically detect Oblivion. If not:
-    * Go to the **Games** tab.
-    * Search for Oblivion and click **Manage**.
-    * Manually set the path to your `Oblivion.exe` inside your game install folder if needed.
+To download and install Vortex, please follow the below steps.
+
+1. Download Vortex from [here](https://www.nexusmods.com/site/mods/1?tab=files).
+    * Unless if you're a premium user, you will need to choose the **slow download** option.
+2. Run the installer.
+    * **Windows**: Ensure you have [.NET Desktop Runtime 6](https://aka.ms/dotnet/6.0/windowsdesktop-runtime-win-x64.exe) installed!
+    * Vortex may prompt and guide you on fixing issues.
+3. Now go to the **Games**  tab.
+4. Either find Oblivion from the **Unmanaged** list of games or search for it in the search box at the top.
+5. Click the **Manage** button located in the middle of the Oblivion game card.
+6. This will attempt to add support for the game.
+    * If Vortex has issues finding the game's location, follow the below steps:
+        1. Go to the **Games** tab through Vortex.
+        2. Find the game card under the **Managed** list.
+        3. Click the **three dots** button located to the top-right of the card.
+        4. Click **Manually Set Location**.
+        5. Select the location of your game install.
+    * Ensure you see the game's section in the left sidebar. If not, click the **Activate** button under the game card.
+
+Vortex should now be configured and installed for modding Oblivion!
 
 **WARNING** - Vortex does not support building a Bashed Patch directly. If you plan on using many mods that alter gameplay, you may want to **use Wrye Bash alongside Vortex** for load order and conflict resolution.
 
