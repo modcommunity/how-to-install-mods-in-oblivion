@@ -135,17 +135,17 @@ Here are steps on how to download and install mods from the sources listed above
 3. Go to the "Mods" tab to activate the `.esp` or `.esm` file.
 
 ### Using Vortex
-1. Log into your [Nexus Mods](https://www.nexusmods.com/) account through Vortex.
-2. On a mod page, click the **Mod Manager Download** button if available.
-    * If the button is not available, the mod does **not support** install through Vortex. You will need to use another mod manager or install the mod manually!
-3. The mod will automatically appear in the **Downloads** tab in Vortex.
-4. Once downloaded, click **Install** on the mod, then click **Enable**.
-5. If prompted, click **Deploy Mods** to apply the changes.
-6. To launch the game with OBSE:
-    * Go to the **Dashboard** tab.
-    * Click the three dots next to Oblivion and select **Edit**.
-    * Change the executable to `obse_loader.exe` if OBSE is installed.
-    * Click **Play** from within Vortex to launch with mods and OBSE.
+1. Ensure you're logged into your Nexus Mods account through Vortex.
+    * You can click the **Login** button at the top-right of the application if not.
+3. Go to the mod's page you want to install on Nexus Mods' website.
+4. If Vortex is supported, you'll see a **Vortex** button next to the **Manual** button on the right side. Click this button.
+    * If you don't see a Vortex button, it means the mod is **not supported** through Vortex and you'll need to **manually install** the mod (instructions included below).
+5. Choose what download type you want (e.g., slow download).
+6. The file should open in Vortex automatically and start downloading.
+    * Go to the **Downloads** tab through Vortex to check the progress!
+7. The mod should be automatically installed.
+    * You can go to the **Mods** tab under the Oblivion section in the left sidebar to confirm if the mod is loaded.
+    * You can remove mods by clicking the **Remove** button located on the right side of the mod item.
 
 ### Manual Mod Installation (Advanced)
 Some users prefer manually installing mods or have issues with mod managers. In any case, you may perform the following general steps to download and install mods manually!
@@ -197,4 +197,4 @@ Modding Oblivion takes a bit of setup, but the results are absolutely worth it!
 * [Oblivion Subreddit](https://www.reddit.com/r/oblivion/)
 * [r/OblivionMods](https://www.reddit.com/r/OblivionMods/)
 
-This guide will be updated over time. If you see any ways to improve this guide, let us know!
+This guide will be updated and improved on over time. If you see any improvements that can be made, please feel free to reach out!
