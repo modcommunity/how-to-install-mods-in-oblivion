@@ -1,14 +1,10 @@
-<div align="center">
-
-![banner|800x300](./images/banner.png)
-
-</div>
-
-A guide on how to **install mods** in **The Elder Scrolls IV: Oblivion** on PC. 
+A guide on how to **install mods** in **The Elder Scrolls IV: Oblivion** on PC.
 
 Additionally, we've included instructions on how to use mod managers like [Wrye Bash](https://github.com/wrye-bash/wrye-bash), [Vortex](https://www.nexusmods.com/about/vortex), and trusted mod websites like [Nexus Mods](https://www.nexusmods.com/oblivion).
 
 This guide is focused on **Windows users**, but some concepts can be adapted for Linux with tools like Steam Proton or [Wine](https://www.winehq.org/).
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-oblivion/)
 
 Oblivion is still one of the most moddable games in the Elder Scrolls series. Whether you want to overhaul the visuals, enhance combat, fix bugs, or add entirely new content, this guide will help you get started!
 
